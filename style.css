@@ -1,0 +1,303 @@
+html{
+    background-color: #9CDBA6;
+}
+body{
+    background-color: antiquewhite;
+    margin: 0%;
+    height: 230px;
+    width: 100%;
+}
+
+.Picture1{
+    width: 250px;
+    height: 200px;
+    border: 5px solid #FF4191;
+}
+h1{
+    position: relative;
+    left: 300px;
+    margin-top: -120px;
+    font-size: 70px;
+}
+hr{
+    border: 0;
+    height: 10px;
+    background-color: blue;
+    margin-top: 50px;
+}
+.hr1{
+    border: 0;
+    height: 10px;
+    background-color: blue;
+    margin-top: 80%;
+}
+.hr2{
+    border: 0;
+    height: 10px;
+    background-color: blue;
+    margin-top: 100px;
+}
+
+.set1{
+    position: relative;
+    top: -0.5%;
+    width: 100%;
+    height: 77%;
+}
+#set2{
+    position: relative;
+    width: 100%;
+    top: 1%;
+}
+.set3{
+    position: absolute;
+    text-align: center;
+    width: 33%;
+}
+
+.set4{
+    position: absolute;
+    text-align: center;
+    width: 33%;
+    left: 33%;
+}
+.set5{
+    position: absolute;
+    text-align: center;
+    width: 33%;
+    left: 66%;
+}
+.set6{
+    position: absolute;
+    text-align: center;
+    margin-top: 25%;
+    width: 33%;
+    left: 0%;
+}
+.set7{
+    position: absolute;
+    text-align: center;
+    margin-top: 25%;
+    width: 30%;
+    left: 35%;
+}
+.set8{
+    position: absolute;
+    text-align: center;
+    margin-top: 25%;
+    width: 33%;
+    left: 66%;
+}
+.set9{
+    position: absolute;
+    text-align: center;
+    margin-top: 50%;
+    width: 33%;
+    left: 0%;
+}
+.set10{
+    position: absolute;
+    text-align: center;
+    margin-top: 50%;
+    width: 33%;
+    left: 34%;
+}
+.set11{
+    position: absolute;
+    text-align: center;
+    margin-top: 50%;
+    width: 33%;
+    left: 66%;
+}
+
+#ex1{
+    position: absolute;
+    width: 500px;
+    margin-top: 220px;
+    left: 14%;
+    font-size: 20px;
+}
+#Ex1{
+    position: absolute;
+    width: 500px;
+    margin-top: 250px;
+    left: 15%;
+    font-size: 20px;
+}
+
+#ex2{
+    position: absolute;
+    width: 500px;
+    margin-top: 220px;
+    left: 48%;
+    font-size: 20px;
+}
+#Ex2{
+    position: absolute;
+    width: 500px;
+    margin-top: 250px;
+    left: 49%;
+    font-size: 20px;
+}
+#ex3{
+    position: absolute;
+    width: 500px;
+    margin-top: 220px;
+    left: 80%;
+    font-size: 20px;
+}
+#Ex3{
+    position: absolute;
+    width: 500px;
+    margin-top: 250px;
+    left: 81%;
+    font-size: 20px;
+}
+#ex4{
+    position: absolute;
+    width: 500px;
+    margin-top: 40%;
+    left: 13%;
+    font-size: 20px;
+}
+#Ex4{
+    position: absolute;
+    width: 500px;
+    margin-top: 42%;
+    left: 14%;
+    font-size: 20px;
+}
+
+#ex5{
+    position: absolute;
+    width: 500px;
+    margin-top: 40%;
+    left: 48%;
+    font-size: 20px;
+}
+#Ex5{
+    position: absolute;
+    width: 500px;
+    margin-top: 42%;
+    left: 49%;
+    font-size: 20px;
+}
+
+#ex6{
+    position: absolute;
+    width: 500px;
+    margin-top: 40%;
+    left: 80%;
+    font-size: 20px;
+}
+#Ex6{
+    position: absolute;
+    width: 500px;
+    margin-top:42%;
+    left: 82%;
+    font-size: 20px;
+}
+
+#ex7{
+    position: absolute;
+    width: 500px;
+    margin-top: 65%;
+    left: 14%;
+    font-size: 20px;
+}
+#Ex7{
+    position: absolute;
+    width: 500px;
+    margin-top: 67%;
+    left: 15%;
+    font-size: 20px;
+}
+
+#ex8{
+    position: absolute;
+    width: 500px;
+    margin-top: 65%;
+    left: 48%;
+    font-size: 20px;
+}
+#Ex8{
+    position: absolute;
+    width: 500px;
+    margin-top:67%;
+    left: 49%;
+    font-size: 20px;
+}
+
+#ex9{
+    position: absolute;
+    width: 500px;
+    margin-top: 65%;
+    left: 80%;
+    font-size: 20px;
+}
+#Ex9{
+    position: absolute;
+    width: 500px;
+    margin-top:67%;
+    left: 82%;
+    font-size: 20px;
+}
+
+
+
+#Tag{
+    position: absolute;
+    font-size: 25px;
+    margin-top: 2%;
+    left: 48%;
+    color: #FF8225;    
+}
+#ig{
+    position: absolute;
+    font-size: 25px;
+    margin-top: 2%;
+    left: 60%;
+    color: #ed35e0; 
+}
+#fb{
+    position: absolute;
+    font-size: 25px;
+    margin-top: 2%;
+    left: 20%;
+    color: #ed35e0; 
+}
+
+.pha1{
+    height: 150%;
+    width:20%;
+    border-radius: 30pt;
+    border: 5px salmon solid;
+    float: right;
+    margin-right: 5%;
+    margin-top: 6%;
+    margin-left: 1%;
+    margin-bottom: 5%;
+}
+.บรรยาย{
+    margin-left: 1%;
+    text-indent: 5%;
+    margin-top: 2%;
+    margin-bottom: 1%;
+    font-size: 20px;
+}
+#go{
+    margin-left: 90%;
+    font-size: 25px;
+    color: #E68369;
+}
+.p2{
+    margin-top: 8%;
+    font-size: 35px;
+    color: red;
+}
+
+
+
+
+
+
